@@ -1,4 +1,4 @@
-# Resumé Equalizer
+# Resume Matcher
 
 _Job Description PDF parser that returns unique keywords organized by Parts Of Speech (POS). Created with Python, Flask, PDF Miner and Natural Language Processing._
 
